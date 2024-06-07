@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "733388935055",
+    "project_id": "cutmarkethub",
+    "storage_bucket": "cutmarkethub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733388935055:android:426c761e08130f8aa045fa",
+        "android_client_info": {
+          "package_name": "com.example.cut_market_hub_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733388935055-t19ldtuqck14inumlucst37eusl63fcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPR-3HJfxLfyyVvuC0PWT3yI5mDr6aVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733388935055-t19ldtuqck14inumlucst37eusl63fcc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733388935055-e1ch2sdmkcf9v33oc8gdlu153k3sl2va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cutMarketHubDash"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733388935055:android:b7a66c1727cca2a4a045fa",
+        "android_client_info": {
+          "package_name": "com.example.cut_market_hub_dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733388935055-t19ldtuqck14inumlucst37eusl63fcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPR-3HJfxLfyyVvuC0PWT3yI5mDr6aVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733388935055-t19ldtuqck14inumlucst37eusl63fcc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733388935055-e1ch2sdmkcf9v33oc8gdlu153k3sl2va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cutMarketHubDash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
